@@ -1,6 +1,6 @@
 # station-house.net
 
-The Station House website. Static HTML, no build step, deployed with GitHub Pages.
+The Stationhouse website. Static HTML, no build step, deployed with GitHub Pages.
 
 ## Files
 
